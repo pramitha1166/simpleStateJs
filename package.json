@@ -1,0 +1,24 @@
+{
+  "name": "simple-state-js",
+  "version": "1.0.0",
+  "description": "this is the typescript base state management tool fot modern web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramitha1166/simpleStateJs.git"
+  },
+  "keywords": [
+    "simple",
+    "state",
+    "js"
+  ],
+  "author": "pramitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramitha1166/simpleStateJs/issues"
+  },
+  "homepage": "https://github.com/pramitha1166/simpleStateJs#readme"
+}
