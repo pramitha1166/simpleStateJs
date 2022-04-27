@@ -1,3 +1,4 @@
+
 function hello(text: any) {
     console.log(text)
 }
